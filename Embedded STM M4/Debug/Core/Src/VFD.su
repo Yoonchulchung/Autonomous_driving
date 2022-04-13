@@ -1,0 +1,4 @@
+VFD.c:140:6:VfdCtlRegInit	24	static
+VFD.c:170:6:VfdInit	8	static
+VFD.c:181:6:VfdDataLoad	40	static
+VFD.c:229:6:VFDPrintf	16	static

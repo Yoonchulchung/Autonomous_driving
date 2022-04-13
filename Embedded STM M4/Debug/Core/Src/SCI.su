@@ -1,0 +1,4 @@
+SCI.c:3:6:SCIx_RxChar	4	static
+SCI.c:11:6:SCIx_TxChar	16	static
+SCI.c:18:6:SCIx_TxString	16	static
+SCI.c:29:6:TxPrintf	16	static

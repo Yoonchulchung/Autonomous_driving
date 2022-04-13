@@ -1,0 +1,3 @@
+motor.c:16:6:motor_init	16	static
+motor.c:25:6:motor_ISR	16	static
+motor.c:147:6:move_to_target	32	static

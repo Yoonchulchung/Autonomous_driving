@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "tft_espi.h": "c",
+        "tft.h": "c",
+        "struct.h": "c",
+        "device.h": "c",
+        "spi_master_lobo.h": "c"
+    },
+    "idf.adapterTargetName": "esp32"
+}
